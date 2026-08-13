@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 2,
+  "latestVersionCode": 1,
   "latestVersionName": "0.1.1",
   "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.1/app-debug.apk",
   "releaseNotes": "1. 新增海流分布圖層\n2. 修復地圖斷層感\n3. 支援自動版本偵測",
