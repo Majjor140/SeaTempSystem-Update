@@ -1,6 +1,6 @@
     {
       "latestVersionCode": 1,
-      "latestVersionName": "1.1.0",
+      "latestVersionName": "0.5.0",
       "apkUrl": "https://你的網址/SeaTemp_v1.1.apk",
       "releaseNotes": "1. 新增海流圖層\n2. 優化繪製效能",
       "isForceUpdate": false
