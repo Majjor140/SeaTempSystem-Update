@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 3,
-  "latestVersionName": "0.1.3",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.3/app-debug.apk",
-  "releaseNotes": "1. 修改Slider位置跟外觀\n2. 修改日曆格式，切換為自製日曆\n3. 記憶個海溫層值域\n4. 排除切換Landscape，設備頁面跳回主頁面之問題\n5. 狀態列新增白色列致使原設計不會被擋住",
+  "latestVersionCode": 4,
+  "latestVersionName": "0.1.4",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.4/app-debug.apk",
+  "releaseNotes": "1. 度分增加NE文字\n2. Classic藍芽功能加入\n3. 魔術棒加入選取外框特效\n4. Slider外觀加大\n5. 版本更新頁面新增\n6. 系統名稱改為海溫展示系統\n7. 教學流程加入\n8. ",
   "isForceUpdate": false
 }
