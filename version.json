@@ -2,6 +2,20 @@
   "latestVersionCode": 4,
   "latestVersionName": "0.1.4",
   "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.4/app-debug.apk",
-  "releaseNotes": "1. 度分增加NE文字\n2. Classic藍芽功能加入\n3. 魔術棒加入選取外框特效\n4. Slider外觀加大、增加拖曳Icon\n5. 版本更新頁面新增\n6. 系統名稱改為海溫展示系統\n7. 教學流程加入\n ",
-  "isForceUpdate": false
+  "releaseNotes": "1. 度分增加NE文字\n2. Classic藍芽功能加入\n3. 魔術棒加入選取外框特效\n4. Slider外觀加大、增加拖曳Icon\n5. 版本更新頁面新增\n6. 系統名稱改為海溫展示系統",
+  "isForceUpdate": false,
+  "history": [
+    {
+      "version": "0.1.3",
+      "changelog": "1. 修改Slider位置跟外觀\n2. 修改日曆格式，切換為自製日曆\n3. 記憶個海溫層值域\n4. 排除切換Landscape，設備頁面跳回主頁面之問題"
+    },
+    {
+      "version": "0.1.2",
+      "changelog": "1. 修改海流分布圖層\n2. 修復地圖斷層感\n3. 支援自動版本偵測\n4. 修改日曆針對海流與各海溫層之資料有無UX設計"
+    },
+    {
+      "version": "0.1.1",
+      "changelog": "1. 新增海流分布圖層\n2. 修復地圖斷層感\n3. 支援自動版本偵測"
+    }
+  ]
 }
