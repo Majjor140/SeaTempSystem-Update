@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "0.1.5",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.5/app-debug.apk",
-  "releaseNotes": "1. 經緯度線顏色改黑色( 明顯顏色 )\n2. 拖曳Icon放大\n3. 工具列調整到右下角，如果有擠壓到日曆時豎直\n",
+  "latestVersionCode": 6,
+  "latestVersionName": "0.1.6",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.6/app-debug.apk",
+  "releaseNotes": "1. 經緯度線及文字模糊問題解決\n2. 全覽圖功能增加\n3. 新增工具列使地圖Camera朝向北\n",
   "isForceUpdate": false,
   "history": [
     {
