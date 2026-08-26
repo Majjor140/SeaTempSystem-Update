@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 6,
-  "latestVersionName": "0.1.6",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.6/app-debug.apk",
-  "releaseNotes": "1. 經緯度線及文字模糊問題解決\n2. 全覽圖功能增加\n3. 新增工具列使地圖Camera朝向北\n",
+  "latestVersionCode": 7,
+  "latestVersionName": "0.1.7",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.7/app-debug.apk",
+  "releaseNotes": "1. 仙女棒沒辦法在網格上查詢海況的Bug修正\n2. Slider Drag Icon增加觸發特效\n3. 全覽圖功能改為縮放回原本大小\n4. 讓GPS定位點變大",
   "isForceUpdate": false,
   "history": [
     {
