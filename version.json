@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "0.1.7",
+  "latestVersionCode": 6,
+  "latestVersionName": "0.1.6",
   "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.6/app-debug.apk",
   "releaseNotes": "1. 經緯度線及文字模糊問題解決\n2. 全覽圖功能增加\n3. 新增工具列使地圖Camera朝向北\n",
   "isForceUpdate": false,
