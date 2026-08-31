@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 10,
+  "latestVersionCode": 9,
   "latestVersionName": "0.1.9",
   "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.9/app-debug.apk",
   "releaseNotes": "1. Slider 數值固定寬度\n2. 指北針功能加入\n3. 增加更新後可跳出訊息更新\n4. 網格減少一圈\n5. 增加App Icon\n6. 日曆回今天改現在\n",
