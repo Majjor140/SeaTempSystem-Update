@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 9,
+  "latestVersionCode": 8,
   "latestVersionName": "0.1.8",
   "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.8/app-debug.apk",
   "releaseNotes": "1. 修改Header會被觸發地圖點擊的問題\n",
