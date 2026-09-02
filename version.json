@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "0.1.10",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.10/app-debug.apk",
-  "releaseNotes": "1. 外觀比例更動\n",
+  "latestVersionCode": 11,
+  "latestVersionName": "0.1.11",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.11/app-debug.apk",
+  "releaseNotes": "1. 保留地圖旋轉狀態\n",
   "isForceUpdate": false,
   "history": [
     {
