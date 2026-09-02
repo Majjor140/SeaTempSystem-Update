@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 12,
-  "latestVersionName": "0.1.12",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.12/app-debug.apk",
-  "releaseNotes": "1. 外觀微調\n",
+  "latestVersionCode": 13,
+  "latestVersionName": "0.1.13",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.13/app-debug.apk",
+  "releaseNotes": "1. 切換Icon\n",
   "isForceUpdate": false,
   "history": [
     {
