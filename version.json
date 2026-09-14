@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 21,
-  "latestVersionName": "0.1.21",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.21/app-debug.apk",
-  "releaseNotes": "1. 將藍點與魔術棒的事件分開\n",
+  "latestVersionCode": 22,
+  "latestVersionName": "0.1.22",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.22/app-debug.apk",
+  "releaseNotes": "1. 增加下載資料等更新\n2. 封包發送時間獨立\n",
   "isForceUpdate": false,
   "history": [
     {
