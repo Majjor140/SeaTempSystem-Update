@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 23,
-  "latestVersionName": "0.1.23",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.23/app-debug.apk",
-  "releaseNotes": "1. 修正豐渝指標極值\n",
+  "latestVersionCode": 24,
+  "latestVersionName": "0.1.24",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.24/app-debug.apk",
+  "releaseNotes": "1. 橫版畫面美化\n",
   "isForceUpdate": false,
   "history": [
     {
