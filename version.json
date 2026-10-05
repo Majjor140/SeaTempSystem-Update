@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 24,
-  "latestVersionName": "0.1.24",
-  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.24/app-debug.apk",
-  "releaseNotes": "1. 橫版畫面美化\n",
+  "latestVersionCode": 25,
+  "latestVersionName": "0.1.25",
+  "apkUrl": "https://github.com/Majjor140/SeaTempSystem-Update/releases/download/v0.1.25/app-debug.apk",
+  "releaseNotes": "1. 指北針正北淡出\n 2. 日曆畫面優化",
   "isForceUpdate": false,
   "history": [
     {
